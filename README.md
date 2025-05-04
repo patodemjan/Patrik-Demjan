@@ -33,6 +33,8 @@ Ich konzentriere mich vor allem auf die **Erstellung von modernen Websites und W
 ## 📫 Kontakt
 
 - 💼 [LinkedIn-Profil](https://www.linkedin.com/in/patrik-demjan-90602429b/)
+- - 📧 **Email:** [patodemjan@gmail.com](mailto:patodemjan@gmail.com)
+ 
 
 ---
 
