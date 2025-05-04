@@ -1,4 +1,4 @@
-# 👋 Hallo, ich bin [DEIN NAME HIER]
+# 👋 Hallo, ich bin Patrik
 
 Ich arbeite derzeit als Lehrer 📚 und habe eine große Leidenschaft für das Programmieren 💻.  
 In meiner Freizeit widme ich mich besonders dem Entwickeln in **Java**, vor allem mit **Eclipse** und den Grundlagen von **Spring Boot**.
