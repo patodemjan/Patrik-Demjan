@@ -11,6 +11,8 @@ In meiner Freizeit widme ich mich besonders dem Entwickeln in **Java**, vor alle
 - 🌱 Spring Boot (Grundkenntnisse)
 - 🧑‍💻 Eclipse IDE
 - 🌐 HTML & CSS
+- 🤖 ChatGPT / KI (Grundkenntnisse in Prompt-Erstellung & Nutzung)
+
 
 ---
 
