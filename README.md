@@ -1,7 +1,7 @@
 # 👋 Hallo, ich bin Patrik
 
 Ich arbeite derzeit als Lehrer 📚 und habe eine große Leidenschaft für das Programmieren 💻.  
-In meiner Freizeit widme ich mich besonders dem Entwickeln in **Java**, vor allem mit **Eclipse** und den Grundlagen von **Spring Boot**.
+Ich konzentriere mich vor allem auf die **Erstellung von modernen Websites und Webanwendungen**, insbesondere mit **Java** und grundlegenden **Webtechnologien**.
 
 ---
 
@@ -12,7 +12,6 @@ In meiner Freizeit widme ich mich besonders dem Entwickeln in **Java**, vor alle
 - 🧑‍💻 Eclipse IDE
 - 🌐 HTML & CSS
 - 🤖 ChatGPT / KI (Grundkenntnisse in Prompt-Erstellung & Nutzung)
-
 
 ---
 
