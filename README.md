@@ -28,7 +28,7 @@ Ich konzentriere mich vor allem auf die **Erstellung von modernen Websites und W
 
 ## 🌍 Portfolio
 
-🔗 [Mein Portfolio ansehen](https://patodemjan.github.io/PortfolioModern/index.html)
+🔗 [Mein Portfolio ansehen](https://patodemjan.github.io/Portfolio/index.html)
 
 ---
 
