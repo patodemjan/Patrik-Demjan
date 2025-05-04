@@ -8,10 +8,12 @@ Ich konzentriere mich vor allem auf die **Erstellung von modernen Websites und W
 ## 💼 Technologien & Tools
 
 
-- ☕ Java
-- 🌱 Spring Boot (Grundkenntnisse)
-- 🧑‍💻 Eclipse IDE
-- 🌐 HTML & CSS
+- ☕ Java – Fortgeschrittene Kenntnisse
+- 🌱 Spring Boot Grundkenntnisse (inkl. REST-APIs, Dependency Injection, Hibernate, Actuator, CRUD)
+- 🔒 Spring Security – Grundkenntnisse in der Implementierung von Authentifizierung und Autorisierung
+- 🧑‍💻 Eclipse IDE - Effizientes Entwickeln
+- 📦 Maven – Erstellen und Verwalten von Spring Boot-Projekten
+- 🌐 HTML & CSS - Solide Grundkenntnisse
 - 🤖 ChatGPT / KI (Grundkenntnisse in Prompt-Erstellung & Nutzung)
 
 ---
