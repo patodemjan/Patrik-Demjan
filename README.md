@@ -7,11 +7,12 @@ Ich konzentriere mich vor allem auf die **Erstellung von modernen Websites und W
 
 ## 💼 Technologien & Tools
 
-- ☕ Java
-- 🌱 Spring Boot (Grundkenntnisse)
-- 🧑‍💻 Eclipse IDE
-- 🌐 HTML & CSS
-- 🤖 ChatGPT / KI (Grundkenntnisse in Prompt-Erstellung & Nutzung)
+- ![Java](https://upload.wikimedia.org/wikipedia/commons/3/30/Java_programming_language_logo.svg) **Java**
+- ![Spring Boot](https://upload.wikimedia.org/wikipedia/commons/3/33/Spring_boot_logo.png) **Spring Boot** (Basic knowledge)
+- ![Eclipse](https://upload.wikimedia.org/wikipedia/commons/5/56/EclipseIDE.svg) **Eclipse IDE**
+- ![HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_2019.svg/1024px-HTML5_logo_2019.svg.png) **HTML**
+- ![CSS](https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg) **CSS**
+- 🤖 **ChatGPT / AI** (Basic knowledge in prompt crafting & usage)
 
 ---
 
